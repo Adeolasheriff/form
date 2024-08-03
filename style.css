@@ -3,7 +3,7 @@ body{
 }
 .first-heading{
      display: flex;
-    gap: 110px;
+    gap: 6rem;
     flex-wrap: wrap; 
     margin-top: 3rem;
 }
