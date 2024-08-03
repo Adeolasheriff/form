@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0, 0, 139, 0.563);
+}
+.first-heading{
+     display: flex;
+    gap: 110px;
+    flex-wrap: wrap; 
+    margin-top: 3rem;
+}
+label{
+    color: white;
+    font-size: 19px;
+}
+input{
+    width: 12rem;
+    padding: 10px;
+}
+.f{
+    width: 1rem;
+}
+b{
+    color: orangered;
+}
+.first-btn{
+    width: 8rem;
+    padding: 8px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    background-color: orangered;
+    border: none;
+    color: white;
+}
+.second-btn{
+    padding: 10px;
+    color: orangered;
+}
+
+h5{
+    color: white;
+}
